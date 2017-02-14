@@ -24,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "amcharts": "https://github.com/kevingraber/amcharts3/archive/master.zip"
+    "amcharts": "https://github.com/mlgdev/amcharts3/archive/master.zip"
   }
 }
